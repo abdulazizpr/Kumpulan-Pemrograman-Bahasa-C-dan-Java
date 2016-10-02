@@ -1,0 +1,36 @@
+Gedung
+-NomorGedung
+-NamaGedung
+-FungsiGedung
+
+Ruangan
+-NomorRuangan
+-PanjangRuangan
+-LebarRuangan
+-FungsiRuangan
+
+Staf
+-NomorStaf
+-NamaStaf
+-Unit
+
+Pasien
+-KodePasien
+-NamaPasien
+-KodePenyakit
+-KodeKamar
+
+Penyakit
+-KodePenyakit
+-NamaPenyakit
+-DeskripsiPenyakit
+
+Kamar
+-NomorKamar
+-NamaKamar
+-Kegunaan
+-Kelas
+
+Masukan beberapa data pasien dan kamar masing masing di dalam sebuah array (harcode).
+Buatlah proses pencarian dengan masukan nama pasien atau nomor kamar. Buat pengkategorian
+pencarian, jika pencarian tidak ada maka tidak ditampilkan.

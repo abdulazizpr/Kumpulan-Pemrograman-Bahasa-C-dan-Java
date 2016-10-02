@@ -1,0 +1,4 @@
+K004 Handphone 500 40
+K003 Laptop 200 40
+K017 Mouse 50 40
+## ## ## ##

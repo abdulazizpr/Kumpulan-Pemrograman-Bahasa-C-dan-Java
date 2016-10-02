@@ -1,0 +1,10 @@
+pola1 2 0
+pola1 0 1
+pola1 1 1
+pola1 2 1
+pola1 2 2
+pola1 0 0
+pola3 0 0
+pola4 2 0
+pola5 2 0
+## # #

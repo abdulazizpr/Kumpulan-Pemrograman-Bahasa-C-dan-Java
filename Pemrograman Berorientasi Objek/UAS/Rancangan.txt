@@ -1,0 +1,29 @@
+Direktori
+-includes :
+	- Template.class.php : Digunakan untuk memasukan template file html
+		- Template() : untuk konstruktor mengisi file html
+		- clear() : untuk membersihkan isi yang seharusnya diganti
+		- write() : menuliskan isi file ke layar
+		- getContent() : menuliskan isi file ke layar
+		- replace() : untik mengganti kode dalam file
+	- DB.class.php : digunakan untuk mengkoneksikan dan mengeksekusi database di MySQL
+		- DB() : konstruktor mengisi host dan username database
+		- open() : untuk membuat koneksi ke MySQL
+		- execute() : untuk mengeksekusi query
+		- getResult() : untuk mengambil eksekusi query
+		- close() : menutup koneksi
+	- Pegawai.class.php : digunakan untuk operasi CRUD pada tabel tgajipegawai dan merupakan bapak dari kelas DB
+		- getPegawai() : untuk mengambil data gaji pegawai
+		- insertPegawai() : untuk memasukan gaji pegawai
+		- getId() : untuk mengambil kode gaji pegawai
+		- updatePegawai() : untuk mengubah data gaji pegawai
+		- deletePegawai() : untuk menghapus data pegawai
+- Templates : berisi file template html
+- conf.php : untuk mengkonfigurasikan database
+- index.php : untuk menjalankan semua eksekusi di excel		
+
+Sumpah :
+Saya Abdul Aziz Priatna(1307123) tidak melakukan kecurangan seperti yang telah dispesifikasikan pada mata kuliah 
+Pemrograman Berorientasi Objek dalam mengerjakan UAS, jika saya melakukan kecurangan 
+maka Allah/Tuhan adalah saksi saya, dan saya bersedia menerima hukumanNya. Aamiin.
+		

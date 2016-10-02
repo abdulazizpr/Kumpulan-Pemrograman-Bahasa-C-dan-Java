@@ -1,0 +1,24 @@
+Sumpah :
+
+Saya Abdul Aziz Priatna tidak melakukan kecurangan seperti yang telah dispesifikasikan 
+pada mata kuliah Pemrograman Berorientasi Objek dalam mengerjakan Tugas Masa Depan, jika saya melakukan kecurangan 
+maka Allah/Tuhan adalah saksi saya, dan saya bersedia menerima hukumanNya. Aamiin.
+
+Rancangan :
+Rancangan ini terdiri dari folder assets,model, view dan controller :
+Assets		: digunakan untuk menyimpan asset gambar/suara
+Controller :
+	- ProsesInput		: digunakan untuk proses input keyboard
+	- ProsesPergerakan	: digunakan untuk proses pergerakan si petualang
+	- UsersController	: digunakan untuk mengakses data user dari 		 
+						  Database
+Model :
+	- DB				: digunakan untuk mengkoneksikan ke database dan 
+						  mengeksekusi query ke database
+	- Users				: digunakan untuk membuat insert dan 
+						  update query ke database
+View  :
+	- Audio				: digunakan untuk play audio format wav
+	- AnimasiGame		: digunakan untuk memainkan game animasi
+	- Home				: untuk tampilan awal game dengan isi tabel user dan tombol untuk bermain/keluar
+Main.java				: untuk membuka aplikasi awal						  

@@ -1,0 +1,24 @@
+Deskripsi TP
+
+C2 2014
+
+Deadline : tgl 28 April 2016
+
+Buatlah sebuah program penyewaan mobil sederhana dengan ketentuan sbb :
+
+Data
+	0. Kode Sewa
+	1. Nomor Flat Mobil
+	2. Jenis Mobil
+	3. Nama Penyewa
+	4. Lama Sewa
+	
+Spesifikasi Minimal Program
+		1. Program dapat menambahkan, menghapus dan memperbarui data
+		2. Untuk menghapus data, maka menjadi acuannya adalah kode sewa
+		3. Untuk memperbarui data, kode sewa menjadi acuan (kode sewa tidak dapat berubah dan yang lainnya)
+		
+Bonus
+		0. Jika kode sewa dapat berubah +10
+			(Misalnya kode sewa terakhir adalah A10, ketika hendak menambahkan maka kode sewanya A11 tanpa melakukan input all)
+		1. Jika melebihi spesifikasi akan diberikan nilai jika menambahkan kelebihan program : maka+10

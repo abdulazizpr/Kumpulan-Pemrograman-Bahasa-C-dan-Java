@@ -1,0 +1,9 @@
+ASUMSI :
+Dalam rancangan saya, Pasien memiliki 2 bapak yaitu Penyakit dan Kamar karena memiliki
+atribut KodePenyakit dan KodeKamar yang ada di dalam pasien(Penyakit sebagai interface dan Kamar menjadi inheritance). Lalu kamar memiliki 2 bapak juga yaitu Gedung dan Ruangan karena dalam dunia nyata Gedung 
+memiliki Banyak ruangan dan kamar sendiri memiliki ukuran luas panjang lebar ruangan.
+
+Gedung--|
+		-> Kamar-------|
+Ruangan-|  			   -->Pasien
+		   Penyakit ---|

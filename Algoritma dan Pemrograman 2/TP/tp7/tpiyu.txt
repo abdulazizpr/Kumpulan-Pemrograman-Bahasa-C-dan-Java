@@ -1,0 +1,3 @@
+K026 ModemGSM 100 5
+K021 Joystick 50 10
+## ## ## ##

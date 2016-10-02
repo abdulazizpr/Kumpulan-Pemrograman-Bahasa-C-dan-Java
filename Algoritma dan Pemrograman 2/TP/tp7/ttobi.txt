@@ -1,0 +1,9 @@
+K003 Laptop 8000
+K004 Handphone 20000
+K009 DVD 2000
+K010 Keyboard 3000
+K017 Mouse 2000
+K018 Earphone 2000
+K021 Joystick 500
+K026 ModemGSM 500
+## ## ##
